@@ -1,9 +1,17 @@
-
+{
   "name": "pocket-notes-android",
   "version": "1.0.0",
   "private": true,
-  "description": "Pocket Notes Android wrapper with PDF library and secure AI endpoint scaffold",
-  "scripts": {"build": "node build.js", "cap:sync": "npx cap sync android"},
-  "dependencies": {"@capacitor/android": "^7.4.3", "@capacitor/core": "^7.4.3"},
-  "devDependencies": {"@capacitor/cli": "^7.4.3"}
+  "description": "Pocket Notes Android wrapper",
+  "scripts": {
+    "build": "node build.js",
+    "cap:sync": "npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
 }
