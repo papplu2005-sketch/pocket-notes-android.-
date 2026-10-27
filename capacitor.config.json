@@ -1,0 +1,6 @@
+{
+  "appId": "com.pocketnotes.app",
+  "appName": "Pocket Notes",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pocket Notes",
+  "short_name": "Pocket Notes",
+  "description": "Private notes, sketches and PDF study library",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9eeec",
+  "theme_color": "#0f7b6c",
+  "orientation": "any"
+}
